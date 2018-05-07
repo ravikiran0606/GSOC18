@@ -9,7 +9,7 @@ title:            GSoC'18 @ CERN
 tagline:          'Professional Blog'
 description:      'Google Summer of Code 2018 Progress @ CERN-HSF by Ravi Kiran S.'
 url:              http://www.sravikiran.com/gsoc/
-baseurl:          /Blog/
+baseurl:          /GSOC18/
 
 author:
   name:           'Ravi Kiran S'
