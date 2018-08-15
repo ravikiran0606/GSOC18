@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Optimization Modules - A Brief Overview
+title: Optimization Algorithms - A Brief Overview:-
 ---
 
 In this blog post, I would like to give a brief overview of the existing gradient descent optimization algorithms that are available. There are lots of good resources available online. You can check them at the References section at the end of this post.
