@@ -10,3 +10,5 @@ I need to thank all my mentors at CERN especially [Dr. Stefan Wunch](https://www
 I will continue contributing to ROOT-TMVA project. I really feel proud to be one of the contributors of the great project [ROOT Software framework](https://root.cern/) by CERN.
 
 ![happiness]({{ site.baseurl }}/images/happiness.jpg)
+
+**UPDATE:** My code has been successfully integrated into the ROOT production release v6.16 and the complete release notes can be found [Here](https://root.cern/doc/v616/release-notes.html)
